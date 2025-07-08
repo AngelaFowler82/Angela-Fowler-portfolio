@@ -56,6 +56,8 @@ The result? People were able to apply more quickly and independently—with fewe
 ---
 
 ## 📄 Case Studies
+- [Redesigning a Benefits Application Form for Accessibility](#)  
+Collaborated with a visual designer to overhaul a benefits application form. I walked through the entire flow as a blind user, identifying friction points and flagging structural barriers. We implemented semantic markup, clarified language, improved spacing, and created a smoother path for low vision users and people under cognitive load. The redesign led to fewer support tickets and more successful submissions—especially from those who previously struggled.
 
 - [Fixing a Typeahead Search for Screen Reader Users](./case-study-va-typeahead.md)
 
