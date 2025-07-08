@@ -1,6 +1,7 @@
 # Angela Fowler | UX Strategy & Accessibility Portfolio
 [→ Case Study: VA Typeahead](./case-study-va-typeahead.md)  
 [→ Testimonials](./testimonials.md)
+[→ Why Accessibility Matters](./accessibility-matters.md)
 
 Welcome! I'm a product designer and accessibility strategist with a practical, results-first approach. I help teams build systems and products that actually work—for everyone.
 
