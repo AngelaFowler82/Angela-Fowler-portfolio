@@ -22,6 +22,10 @@ These are sites I’ve designed, built, or provided strategic accessibility guid
 
 - **Hiring for Champions** – Co-created a training and coaching program for HR professionals focused on disability-aware hiring practices and cultural access.
 - **Agenda.NET Accessibility Evaluation** – Reviewed government meeting software for WCAG 2.2 compliance and usability gaps.
+### Co-Created Accessibility Playbook for Government Agencies  
+📘 A strategic guide originally published by Ad Hoc, this archived playbook offers practical steps government agencies can take to build an accessibility strategy that works. While the original has since been removed, the content remains a valuable resource.
+
+🔗 [View via Wayback Machine (Sept 14, 2024)](https://web.archive.org/web/20240914141206/https://adhoc.team/playbook-accessibility/)
 
 ---
 
